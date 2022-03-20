@@ -1,0 +1,17 @@
+characters={
+	USM_steve_armstrong={
+		name=USM_steve_armstrong
+		#portraits={
+		#	civilian={large=".dds"}
+		#	army={
+		#		large=".dds"
+		#		small=".dds"
+		#	}
+		#}
+		country_leader={
+			desc=USM_sarmstrong_poli_desc expire="748.03.13.08"
+			ideology=jingoism
+			traits={}
+		}
+	}
+}

@@ -1,0 +1,16 @@
+state={
+	id=213
+	name="STATE_213"
+	manpower=2
+	state_category=rural
+	provinces={880 1032 1256 1630 1695 1852 2218 3423 3986 4472 5807 5836 5870 5877}
+	history={
+		victory_points={2218 3}
+		owner=USM
+		add_core_of=USM
+		buildings={
+			infrastructure=2
+			2218={naval_base=1}
+		}
+	}
+}

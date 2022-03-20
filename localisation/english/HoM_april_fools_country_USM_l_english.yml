@@ -1,0 +1,23 @@
+﻿l_english:
+###Characters###
+##Leaders##
+USM_steve_armstrong:"Steve Armstrong"
+ USM_sarmstrong_poli_desc:0"§YBorn§!: §L(REDACTED)§! in Texas" #\n\n§YBiography§!: . \n\n§LPortrait§! from: §CMGR:Revengeance§!
+ USM_sarmstrong_mili_desc:0"§YBorn§!: §L(REDACTED)§! in Texas" #\n\n§YBiography§!: . \n\n§LPortrait§! from: §CMGR:Revengeance§!
+###Country Name###
+USM:0"United States of 'Murica"
+ USM_DEF:0"The United States of 'Murica"
+ USM_ADJ:0"'Muricans"
+###Political Parties###
+#USM_nationalist_party:0""
+# USM_nationalist_party_long:0""
+# USM_socialism_party:0""
+#  USM_socialism_party_long:0""
+# USM_neutrality_party:0""
+#  USM_neutrality_party_long:0""
+# USM_villagism_party:0""
+#  USM_villagism_party_long:0""
+# USM_monster_party:0""
+#  USM_monster_party_long:0""
+###Ideas###
+###National Focuses###

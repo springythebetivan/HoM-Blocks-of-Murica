@@ -1,0 +1,20 @@
+state={
+	id=568
+	name="STATE_568"
+	manpower=10077331	#Michigan's population 2020
+	state_category=metropolis
+	provinces={424 585 1615 1618 1929 3688 3738 4270 5989}
+	resources={wood=6 iron=2}
+	history={
+		victory_points={424 20}
+		owner=USM
+		add_core_of=USM
+		buildings={
+			infrastructure=3
+			arms_factory=1
+			industrial_complex=2
+			dockyard=1
+			424={naval_base=2}
+		}
+	}
+}

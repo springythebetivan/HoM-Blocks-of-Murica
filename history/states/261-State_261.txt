@@ -1,0 +1,17 @@
+state={
+	id=261
+	name="STATE_261"
+	manpower=35216860	#Colorado's HOI4 population x34
+	state_category=city
+	provinces={1200 2170 2816 2907 4578 5567 5885 5889 5951}
+	history={
+		victory_points={5567 10}
+		owner=USM
+		add_core_of=USM
+		buildings={
+			infrastructure=2
+			arms_factory=1
+			industrial_complex=3
+		}
+	}
+}

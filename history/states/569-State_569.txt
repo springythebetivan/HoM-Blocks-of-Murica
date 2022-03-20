@@ -1,0 +1,16 @@
+state={
+	id=569
+	name="STATE_569"
+	manpower=58247120	#Texas HOI4 population x10
+	state_category=large_town
+	provinces={56 406 1184 1970 4205 4808 5919 5920 5945 5948}
+	history={
+		victory_points={5919 5}
+		owner=USM
+		add_core_of=USM
+		buildings={
+			infrastructure=1
+			industrial_complex=1
+		}
+	}
+}
